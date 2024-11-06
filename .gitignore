@@ -1,0 +1,12 @@
+# Ignorar los archivos generados en Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos de variables de entorno
+*.env
+
+# Ignorar la carpeta de datos (si vas a usarla para almacenar archivos locales)
+data/
